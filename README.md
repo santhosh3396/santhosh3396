@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Santhosh 👋
 
-<!--
-**santhosh3396/santhosh3396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS DevOps Engineer with 3.6+ years of experience in designing, automating, and managing cloud infrastructure.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS (EC2, VPC, IAM, S3, Route53, CloudWatch)
+- Terraform
+- Kubernetes (EKS)
+- Docker
+- Jenkins
+- GitHub Actions
+- ArgoCD
+- Helm
+- Linux
+- Ansible
+- Prometheus
+- Grafana
+- ELK Stack
+
+## 🏆 Certification
+
+- AWS Certified Cloud Practitioner
+
+## 📂 Featured Projects
+
+### Multi-Region Disaster Recovery System
+- Built AWS disaster recovery architecture using Route53 failover
+- Automated infrastructure provisioning using Terraform
+- Reduced RTO from 4 hours to under 15 minutes
+
+### Observability Platform
+- Implemented Prometheus, Grafana, ELK and OpenTelemetry
+- Improved monitoring and alerting for production workloads
+
+### Terraform AWS Infrastructure
+- Automated AWS infrastructure deployment using Terraform modules
+- Implemented reusable Infrastructure as Code practices
+
+### Kubernetes Resource Management
+- Managed production EKS clusters
+- Implemented GitOps deployments using ArgoCD
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/santhosh-gurujupalli
+- GitHub: https://github.com/santhosh3396
