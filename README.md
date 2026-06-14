@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 **4 years** of hands-on experience in DevOps, SRE, and Cloud Engineering
+- 🔧 **3.6 years** of hands-on experience in DevOps, SRE, and Cloud Engineering
 - ☁️ Deep expertise in **AWS EKS, Terraform, CI/CD pipelines, and GitOps workflows**
 - 📊 Built production observability stacks serving **20+ microservices** with **99.9% uptime**
 - 🚀 Reduced deployment time by **60%** and manual provisioning effort by **70%** using IaC and CI/CD
